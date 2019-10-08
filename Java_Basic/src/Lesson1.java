@@ -62,6 +62,7 @@ public class Lesson1 {
         * b10 nhập vào năm sinh in ra tuổi
         * b11 a++,a-- được hiểu như thế nào
         * b12 a+=2, b+=10 được hiểu như thế nào
+        * b13 phân biệt next() và nextLine()
         * */
     }
 }
