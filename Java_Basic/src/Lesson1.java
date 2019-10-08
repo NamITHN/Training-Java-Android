@@ -58,7 +58,7 @@ public class Lesson1 {
         * b6 nhập vào 1 số in ra số đằng sau nó
         * b7 nhập vào a ,b tính tổng, hiệu, tích, thương, chia lấy dư
         * b8 tính tổng s= 1+..+10
-        * b9 tính tổng s= 1+3+5+7+9
+        * b9 tính tổng các số lẻ nhở hơn 10
         * b10 nhập vào năm sinh in ra tuổi
         * b11 a++,a-- được hiểu như thế nào
         * b12 a+=2, b+=10 được hiểu như thế nào
